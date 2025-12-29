@@ -1,0 +1,24 @@
+Introdução ao Python!
+
+Nesta aula foi passado o conceito de programação e como instalar o python na máquina.
+
+Conceitos:
+    Computação: é a ciência que estuda a manipulação, processamento e armazenamento de informações usando computadores, abrangendo desde o desenvolvimento de programas e sistemas até análise de dados e a criação de tecnologias inovadoras.
+
+Ideia de Programação: escrever instruções para um computador seguir e executar tarefas específicas de forma automática.
+    -   Conjunto de instruções que direcionam um computador a executar tarefas específicas, permitindo a automação e a resolução de problemas de maneira eficiente.
+    -   É a linguagem que permite os desenvolvedores interagir com a máquina e criar soluções tecnológicas para diversas áreas.
+
+Sobre o Python:
+1. Linguagem de propósito geral.
+2. Versátil.
+3. Alto nível.
+4. Open Source.
+5. Multiplataforma.
+6. Fácil de aprender.
+7. Muito utilizado na área de dados e em pesquisa científica.
+
+Instalação.
+1. Python puro: www.python.com
+2. Python com pacotes de Data Science: anaconda.org (utilizado no curso)
+3. Interface de Desenvolvimento: code.visualstudio.com
