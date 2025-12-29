@@ -1,8 +1,0 @@
-Introdução ao Python!
-
-Nesta aula foi passado o conceito de programação e como instalar o python na máquina.
-
-Conceitos:
-    Computação: é a ciência que estuda a manipulação, processamento e armazenamento de informações usando computadores, abrangendo desde o desenvolvimento de programas e sistemas até análise de dados e a criação de tecnologias inovadoras.
-
-Ideia de Programção: escrever instruções para um computador seguir e executar tarefas específicas de forma automática.
