@@ -1,0 +1,20 @@
+Após a tradiçaõ do "Olá, mundo!" iremos aprender alguns comandos novos para Python.
+Todos ficarão disponíveis nos arquivos em .py.
+
+Foi ensinado como:
+1. Rodar pedaços de códigos utilizando #%%
+2. comentário de linha: #
+3. comentário por blocos de códigos.
+4. Operações básicas de matemática, fazendo 
+    4.1 SOMA
+    4.2 SUBTRAÇÃO
+    4.3 MULTIPLICAÇÃO
+    4.4 DIVISÃO
+    4.5 DIVISÃO COM INTEIRA PARTE
+    4.6 RESTO DA DIVISÃO
+    4.7 POTÊNCIA
+
+5. Introdução ao input de dados em variáveis. 
+
+--Terminal_cmd
+Comando para limpar console: cls
