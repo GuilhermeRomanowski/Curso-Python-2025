@@ -1,0 +1,11 @@
+Aula voltada a receber valores de usuários para obter interação com quem estiver utilizando nosso código.
+
+Comando Input: Lê dados no formato de String.
+No caso do arquivo 05_dobro.py, é necessário converter o tipo da variável para que seja reconhecido como número
+Convertemos a tipagem igualando a variável ao novo tipo dela:
+
+Exemplo:
+variável = 1
+variável = int(variável)
+
+O arquivo dobro.py está com problema e será repassado como resolver ao longo do curso nas próximas anotações.
