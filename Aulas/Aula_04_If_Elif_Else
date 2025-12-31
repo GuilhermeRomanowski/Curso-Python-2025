@@ -1,0 +1,24 @@
+Aula sobre estruturas de controle.
+
+Até o momento aprendemos que o python executa o código de cima para baixo, olhando para todas linhas.
+Nesta aula será aprendido funções que selecionará quais linhas o pyhton vai executar.
+IF, ELIF, ELSE.
+
+Antes de irmos diretamente para as condições, primeiro aprendemos os tipos de objetos que são lido dentro do código.
+
+String: Valores de texto
+Inteito: Valores numéricos do tipo inteiro.
+Float: Valores numéricos decimais.
+Booleanos: Valores True(Verdadeiro) ou False(Falso) para utilizar em comparações lógicas.
+
+Valores de comparações lógicas Python:
+Maior: >
+Menor: <
+Maior igual: >=
+Menos igual: <=
+Igual: ==
+Diference: !=
+
+If, Elif e Else é como a condição Se isso...então isso....Se não....aquilo
+
+
