@@ -1,0 +1,5 @@
+Nesta aula iremos aprender sobre laços de repetição:
+
+1 - while: Enquanto a condição for verdadeira, ela continua exibindo o bloco de código abaixo dela.
+    break força a parada do laço While, conforme demonstrado no exercicio_03
+2 - 
