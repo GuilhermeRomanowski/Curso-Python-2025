@@ -1,0 +1,4 @@
+Nesta aula será ensinado o conceito de Listas no Pyhton.
+
+Listas: Conjunto de elementos.
+Ela fica entre colchetes [] e cada elemento é separado por ",".
