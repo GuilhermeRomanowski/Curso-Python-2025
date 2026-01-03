@@ -2,3 +2,15 @@ Nesta aula será ensinado o conceito de Listas no Pyhton.
 
 Listas: Conjunto de elementos.
 Ela fica entre colchetes [] e cada elemento é separado por ",".
+Listas é formada por elementos[1,2,3,4,5]
+Para exiber o elemento 5 da lista, o python interpreta como índice, iniciando a contagem do número 0
+Assim a lista acima são interpretadas da seguinte maneira:
+
+Elementos: 1, 2, 3, 4, 5
+Índice: 0, 1, 2, 3, 4
+
+Para exibir o 5º elemento da lista, devemos colocar o número do índice (4)
+Mais detalhes sobre como funciona a lógica por trás de cada elemento da lista está nos arquivos de códigos:
+14_listas.py
+
+Nesta aula fizemos um exercício e também mostramos como utilizar a lista para interagir com o usuário através do arquivo: 15_idades.py.
