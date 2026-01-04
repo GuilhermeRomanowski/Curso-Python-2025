@@ -14,5 +14,6 @@ while True:
     else:
          dic_frase[frase] += 1
 
-print(f"Você digitou as frases: {dic_frase}")
+for i in dic_frase:
+     print(i ,"->" , dic_frase[i])
 
