@@ -1,0 +1,19 @@
+Aula sobre Funções em Python.
+1. O python tem algumas funções padrões que já utilizamos. Segue abaixo:
+
+- print("")
+- input("") 
+- len()
+- int() 
+- str() 
+- sum() 
+- max()
+- sorted()
+- type()
+
+2. Para criar uma função no python, temos que definir ela através do def ()
+    - Assim como na matemática temos as funções: f(x) = x + 1.
+    - No python podemos definir funções. Essa mesma função matemática ficaria assim em python:
+        def f(x):
+          return 1 + x
+Mais informações, verificar o arquivo 18_funcoes.py
