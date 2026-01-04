@@ -1,0 +1,10 @@
+Aula para entender como funciona os Dicionários no Python.
+Os Dicionários são definidos por Colchetes, como exemplo abaioxo:
+
+{"chave":"valor","chave":"valor"}
+
+No script 16_dicionários.py temos casos de como é utilizado o dicionário e como acessar seus elementos.
+
+Tuplas -> É uma lista imutável. Script 17_tuplas.py
+As tuplas servem para garantir que ao executar um código o objeto seja imutável até o final do código.
+Exemplo: Trouxe dados de algum banco de dados e não quero que esses dados mudem durante a execução do código py, utilizo tuplas para garantir que eles fiquem no mesmo estado em que vieram.
