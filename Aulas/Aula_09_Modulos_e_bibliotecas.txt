@@ -1,0 +1,12 @@
+Aula teórica sobre módulos e bibliotecas no Python:
+As bibliotecas no python são recursos utilizados para trazer uma série de funções pré definidas para utilizarmos em nossos códigos.
+
+Os módulos são as funções que importamos da biblioteca. 
+
+Exemplo: 
+import math -> math é o nome da biblioteca que traz operações matemáticas para o python.
+Nela encontramos a função para trazer o número de pi (math.pi), porém se só irei utilizar essa função no meu código,
+eu poderia importar apenas a função pi da seguinte maneira.
+
+from math import pi -> estamos dizendo: da biblioteca math importe o módulo pi.
+Dessa maneira importamos pedaço da biblioteca e deixamos nosso script mais leve, utilizando apenas o necessário.
