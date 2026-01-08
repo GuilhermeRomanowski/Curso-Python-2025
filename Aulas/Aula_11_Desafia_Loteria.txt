@@ -1,0 +1,8 @@
+Essa aula é um desafio desenvolvido junto ao professor.
+
+Loteria da babilônia:
+
+- Construa um programa que sorteie um número entre 1 e 15.
+O usuário terá 3 chances de acertar o valor.
+A cada tentativa você deve informar se o chute é maior ou menor que o número sorteado.
+Caso o usuário acerte, dê os parabéns
