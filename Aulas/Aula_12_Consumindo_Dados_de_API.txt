@@ -1,0 +1,6 @@
+API é um conjunto de regras e protocolos que permite que diferentes softwares 
+se comuniquem e troquem dados, funcionando como uma "ponte" ou "intermediário", 
+possibilitando que um aplicativo utilize funcionalidades ou acesse dados de outro, 
+sem precisar saber como foi implementado, como quando um app de clima usa a API 
+do Google Maps para mostrar sua localizção.
+
