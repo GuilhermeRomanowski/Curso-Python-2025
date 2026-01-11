@@ -4,3 +4,6 @@ possibilitando que um aplicativo utilize funcionalidades ou acesse dados de outr
 sem precisar saber como foi implementado, como quando um app de clima usa a API 
 do Google Maps para mostrar sua localizção.
 
+Segue abaixo link com diversasa APIs para montar projetos futuramente:
+https://github.com/public-apis/public-apis#open-data
+

@@ -23,3 +23,9 @@ Em paralelo também utilizar bibliotecas que ajudem no consumo de API e raspagem
 ## Considerações Finais
 
 Agradeço a todos que estão visitando meu perfil, a ideia é sempre continuar estudando e alimentando os repositórios criados para estudo e futuramente criar meus próprios projetos (alguns com ajuda e orientação de cursos, outros totalmente sozinho). A meta é que até março eu já esteja fazendo meus próprios projetos.
+
+## APIs
+
+Link com diversas APIs públicas para se utilizar em projetos futuros:
+https://github.com/public-apis/public-apis#open-data
+
